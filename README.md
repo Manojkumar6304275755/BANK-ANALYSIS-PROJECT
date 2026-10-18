@@ -132,9 +132,6 @@ Bank-Data-Analytics/
 ├── Tableau/
 │   └── Tableau packaged workbooks (.twbx)
 │
-├── Dashboard-Screenshots/
-│   └── Dashboard preview images
-│
 └── README.md
 
 The folder structure can be adjusted to match the actual files uploaded to the repository.
