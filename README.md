@@ -1,6 +1,6 @@
-Bank Data Analytics Project | Excel, SQL, Power BI & Tableau
+# Bank Data Analytics Project | Excel, SQL, Power BI & Tableau
 
-Project Overview
+# Project Overview
 
 The Bank Data Analytics Project is an end-to-end data analytics project focused on analyzing banking, loan, debit, and credit transaction data using Microsoft Excel, SQL, Power BI, and Tableau.
 
@@ -8,7 +8,7 @@ The project combines data preparation, querying, business analysis, KPI calculat
 
 It covers 30 analytical questions across two related analysis tracks: 18 questions focused on banking and loan analysis, and 12 questions focused on debit and credit transaction analysis.
 
-Project Objectives
+# Project Objectives
 
 - Analyze banking and loan-related data to identify business patterns.
 - Evaluate debit and credit transactions using relevant KPIs.
@@ -19,7 +19,7 @@ Project Objectives
 - Build clear and interactive visualizations for business reporting.
 - Develop practical skills in data analytics using multiple industry-relevant tools.
 
-Tools and Technologies
+# Tools and Technologies
 
 1. Microsoft Excel
 
@@ -67,7 +67,7 @@ Key analysis areas include:
 - Product group-wise loan analysis.
 - Additional banking analysis questions based on the dataset.
 
-Dataset files:
+#Dataset files:
 
 - "Bank Data Analytics.xlsx"
 - "Bank Data Analytics.csv"
@@ -101,7 +101,7 @@ Analytical Workflow
 6. Dashboard Development: Combine relevant visualizations into dashboards for easier interpretation.
 7. Insights and Reporting: Summarize the findings and communicate the results through reports and presentations.
 
-Key Business Insights
+# Key Business Insights
 
 The project is designed to help understand:
 
@@ -115,7 +115,7 @@ The project is designed to help understand:
 
 Actual findings and numerical conclusions should be interpreted from the completed analysis and the source data.
 
-Project Structure
+# Project Structure
 
 Bank-Data-Analytics/
 │
@@ -149,7 +149,7 @@ Skills Demonstrated
 - Business Analysis
 - Analytical Reporting
 
-Conclusion
+# Conclusion
 
 This project demonstrates an end-to-end approach to banking data analytics using Excel, SQL, Power BI, and Tableau. By solving 30 analytical questions across banking and loan analysis and debit and credit transaction analysis, the project showcases practical data analysis, visualization, and reporting skills.
 
@@ -157,6 +157,6 @@ Author
 
 TEAM
 
-Aspiring Data Analysts
+# Aspiring Data Analysts
 
 Tools: Microsoft Excel | SQL | Power BI | Tableau
